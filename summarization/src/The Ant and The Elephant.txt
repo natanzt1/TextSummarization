@@ -1,0 +1,13 @@
+The ant and the elephant were very good friends indeed and would play together whenever they had the chance. The trouble was, the elephant’s father was a very strict father and he did not like his son playing when there was homework to be done, or if his mother needed chores doing. And he did not like his son playing with his friend the ant when he should be playing with the other elephants in the pride.
+
+The little elephant was very scared of his father and did not like it when he was angry. But the ant was a very brave ant and was not scared of the grumpy old father.
+
+One day, the two friends were playing a game of mahabis* when they heard the angry father approaching. The ground shook violently and the trees swayed from side to side.
+
+‘Oh no, it is my father!’ cried the young elephant, a scared look upon his face. ‘What can I do?’
+
+The little ant puffed out his chest and stood to his full height. ‘Don’t worry, my friend, you can hide behind me and your father will not find you!’
+
+    ps = PorterStemmer()
+    for x in range(0, len(words)):
+        ps.stem()
